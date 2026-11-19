@@ -1,0 +1,16 @@
+name: trainhorn
+version: 1.0.0
+
+description: |
+  Train horn calculators: SPL vs distance, level addition, Boyle's-law tank
+  runtime, compressor recovery and AWG wire sizing by voltage drop.
+
+authors:
+  - Train Horn <trainhornsmaster@gmail.com>
+
+crystal: ">= 1.0.0"
+
+license: MIT
+
+repository: https://github.com/train-horn/trainhorn-cr
+documentation: https://crystaldoc.info/github/train-horn/trainhorn-cr
